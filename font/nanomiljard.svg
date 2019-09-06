@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="nanomiljard" horiz-adv-x="1000" >
+<font-face font-family="nanomiljard" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="logo" unicode="&#xe900;" d="M571-7c0-40-32-72-71-72s-71 32-71 72c0 39 32 71 71 71s71-32 71-71z m-217 24c-23-33-67-41-100-18s-40 67-17 99c22 33 67 41 99 18s40-67 18-99z m-165 144c-37-14-78 5-92 42s6 79 43 92c37 14 78-6 92-43s-6-78-43-91z m-52 212c-39 11-61 50-51 88s49 61 88 50c38-10 60-49 50-87s-49-61-87-51z m79 205c-26 30-22 75 9 100s75 22 100-8c26-31 22-76-9-101s-75-21-100 9z m547-480c23-32 15-76-17-99s-77-15-100 18c-22 32-14 76 18 99s77 15 99-18z m97 197c37-13 56-54 43-92s-55-56-92-42c-37 13-56 54-42 91s54 57 91 43z m-33 216c38 11 77-12 87-50s-12-77-50-88c-39-10-78 13-88 51s12 77 51 87z m-152 159c25 30 70 34 101 8s34-70 8-100c-25-30-70-34-100-9s-34 70-9 101z m-175 109c39 0 71-32 71-72v-286c0-39-32-71-71-71s-71 32-71 71v286c0 40 32 72 71 72z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
