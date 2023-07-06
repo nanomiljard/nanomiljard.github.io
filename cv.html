@@ -4,7 +4,14 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
 	<style type="text/css">
 		td { vertical-align: top; }
-	</style>
+		a {
+			text-decoration: none;
+			color: black;
+			background: #eee;
+		}
+		@media print {
+			.pagebreak { page-break-before: always; } /* page-break-after works, as well */
+		}	</style>
 	<title>Hendrik Nigul</title>
 </head>
 <body>
@@ -13,7 +20,7 @@
 <tr><td>Date of birth:<td>December 21 1983 
 <tr><td>Address:<td>Pikk 86-64, 50606 Tartu, Estonia
 <tr><td>Phone:<td>+372 5662 4422 
-<tr><td>Email:<td>hendrik dot nigul &auml;t gmail dot com
+<tr><td>Email:<td>hendrik.nigul&#64;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
 </table>
 <H3>Education</H3>
 <table> 
@@ -21,23 +28,25 @@
 <tr><td>2002 - 2003<td>Estonian Army 
 <tr><td>1991 - 2002<td>Tallinn English College
 </table>
-<H3>Working career</H3> 
+<H3>Software developer career</H3> 
 <table>
-<tr><td style="min-width: 160px;">2021 May - Now<td>Codelive projects:
-	<div>Pallet packing: reduced cargo loading meters by 15% compared to human planning</div>
-	<div>Web application for job offers: worked with Laravel, Vue.js, Websockets</div>
-	<div>Loan management system: Improved extendability of home-made event sourcing system
+<tr><td style="min-width: 160px;">2021 May - Now<td>Codelive:
+	<div>Finance platform (C#): integrated existing microservices to 3rd party scoring system</div>
+	<div>Pallet packing (Php, Python): optimized cargo loading meters by 15% compared to human planning</div>
+	<div>Web application for job offers (Php): worked with Laravel, Vue.js, Websockets</div>
+	<div>Loan management system (Php): Improved extendability of home-made event sourcing system
 		(refactored static conf to dynamic with dependency injection).
 		Introduced single-configuration fields for internal events, swagger api, ui forms, message templates.
 		Reduced verbosity of unit-testing event-based system. Added integration tests for core workflow.
 	</div>
-<tr><td>2019 Aug - 2020 Sept<td>Nanomiljard, developing document management system
-<tr><td>2017 Sept - 2019 Aug<td>Aasa, backend developer of loans management system
-<tr><td>2011 Nov - 2014 May<td>Nortal, document management system developer based on SharePoint 2010
-<tr><td>2011 Jan - Oct<td>Playtech Estonia, mobile client developer using Google Web Toolkit
-<tr><td>2009 May - 2010 Dec<td>Playtech Estonia, PHP developer: UI and payment methods developer
-<tr><td>2008 Oct - Nov<td>Titanium systems, developer
-<tr><td>2004 - 2007<td>University of Tartu, C++ developer: pattern matching algorithms
+	<div>Some more backend projects</div>
+<tr><td>2019 Aug - 2020 Sept<td>Nanomiljard, Hyperintelligent Aliens (C#): developing document management system, SharePoint UI
+<tr><td>2017 Sept - 2019 Aug<td>Aasa (Php): backend developer of loans management system
+<tr><td>2011 Nov - 2014 May<td>Nortal (C#): document management system developer based on SharePoint 2010
+<tr><td>2011 Jan - Oct<td>Playtech Estonia (Java): mobile client developer using Google Web Toolkit
+<tr><td>2009 May - 2010 Dec<td>Playtech Estonia (Php): UI and payment methods developer
+<tr><td>2008 Oct - Nov<td>Titanium systems (Php)
+<tr><td>2004 - 2007<td>University of Tartu, (C++): pattern matching algorithms
 </table>
 <H3>Skills</H3>
 <ul><li>Programming languages
@@ -57,7 +66,7 @@
 </ul></li>
 <!--<li>Driver's licence B</li>-->
 </ul>
-<H3>Hobbies</H3>
+<H3 class="pagebreak">Hobbies</H3>
 <ul>
 <li>Math, informatics, physics olympiads
 <ul>
@@ -65,17 +74,18 @@
 	2004 ACM-ICPC World Finals</a>: team member of the University of Tartu, 27th place
 <li><a href="http://www.imc-math.org.uk/index.php?year=2005">
 	IMC'05</a>: International Mathematics Competition, 31st place, First Prize
+<li><a href="https://eoa.ee/?name_id=2567">Participations in Estonian olympiads</a>	
 <!--<li>TopCoder <a href="http://www.topcoder.com/tc?module=MemberProfile&amp;cr=8580975">member profile</a>
 <li>TopCoder <a href="http://www.topcoder.com/tc?module=COMHistory&amp;achtid=5"> Coder of the Month 2007 June</a>-->
 <li>Member of Estonian Math Olympiad jury 2004 - 2011
 <li>Special interests: algorithms, combinatorics, discrete mathematics, geometry
 </ul>
-<li>Bridge, go
-<li>Sports, running, cycling, skiing, swimming: 5+ finishes in Tartu Jooksumaraton, Tartu Rattaralli, Tartu Rattamaraton, Tartu Maraton
+<li>Bridge: Tartu bridge club board member 2014 - Now
+<li>Sports, running, cycling, skiing, swimming: 10+ finishes in Tartu Jooksumaraton, Tartu Rattaralli, Tartu Rattamaraton, Tartu Maraton
 </ul>
 <hr>
 <address>
-Last update: October 2022
+Last update: July 2023
 </address>
 </body>
 </html>
