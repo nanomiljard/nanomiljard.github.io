@@ -3,23 +3,31 @@
 ! _Checksum: YCYmqCooqRy6GhoLSUIk1w
 ! Title: Hendrik ABP filters
 ! Example: https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-youtube.com##div.video-legacy-annotations,div.video-custom-annotations
-www.vint.ee##DIV[id="banner"]
-www.vint.ee##A[href="http://atmosphere.ee"]
-err.ee##:not([id="lightgallery"])>*>img.autoimage
+! .lead-media__image,.spacer,.author-share,.article-latest-news-list__read-more-btn,.group-commercial,.cutin-section
+^mandrillapp.com^
+bridge.ee##header>div.container
+bridgebase.com###bbo_ad1,#bbo_ad2
+edasi.org##.ulp-overlay
+elu24.ee##div.section-branding-container
 err.ee##.art-blc-img,.div-image
-www.postimees.ee##IFRAME[class=""]
 err.ee##.img-scale
-postimees.ee##section.latest_list>figure,div.article--in-list__image,.article-related-articles-list__image,.article-latest-news-list__item,div.list-article__image
+err.ee##:not([id="lightgallery"])>*>img.autoimage
+hinnavaatlus.ee##.banner
+hinnavaatlus.ee##div.banner,ul.special-offers-list,div.header-top
 marathon100.com###coverpop-ad
 marathon100.com##.splash
+marathon100.com##a[href^="https://marathon100.com/b/"]
+marathon100.com/*/_coverpop.scss
+postimees.ee##div.section-branding-container,div.article-list__image,div.list-article__image,div.pattern-side--ads,a.section-name-label,div.commercial-articles,article.list-article--commercial
+postimees.ee##div.view-offer
+postimees.ee##section.latest_list>figure,div.article--in-list__image,.article-related-articles-list__image,.article-latest-news-list__item,div.list-article__image
 postimees.ee##span.frontIcons,a.itemContainer,section#customAdProjectBlock,img.shadowText,div.payMethodContainer,img.img,DIV.personalized-articles-popup,div.personalized-articles,div.commercial-articles
-postimees.ee##div.section-branding-container
-hinnavaatlus.ee##.banner
-postimees.ee##div.article-list__image,div.pattern-side--ads,a.section-name-label,article.list-article--commercial,.lead-media__image,.spacer,.author-share,.article-latest-news-list__read-more-btn,.group-commercial,.cutin-section
 sportfoto.com/*/copyright*.gif
-||media.bridgewinners.com/info_blocks/*
+www.vint.ee##A[href="http://atmosphere.ee"]
+www.vint.ee##DIV[id="banner"]
+youtube.com##div.video-legacy-annotations,div.video-custom-annotations
+youtube.com##img.yt-img-shadow
+youtube.com##ytd-thumbnail,#thumbnail.ytd-thumbnail
 ||kanal2.postimees.ee/pluss_assets/img/video_problem.png
 ||marathon100.com/upload/banners/*
-^mandrillapp.com^
-edasi.org##.ulp-overlay
+||media.bridgewinners.com/info_blocks/*
