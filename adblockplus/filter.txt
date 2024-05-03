@@ -8,9 +8,11 @@
 bridge.ee##header>div.container
 bridgebase.com###bbo_ad1,#bbo_ad2
 edasi.org##.ulp-overlay
+edasi.org/wp-content/plugins/layered-popups/js/ads.js
 elu24.ee##div.section-branding-container
 err.ee##.art-blc-img,.div-image
 err.ee##.img-scale
+err.ee##img.art-img
 err.ee##:not([id="lightgallery"])>*>img.autoimage
 hinnavaatlus.ee##.banner
 hinnavaatlus.ee##div.banner,ul.special-offers-list,div.header-top
@@ -22,6 +24,8 @@ postimees.ee##div.section-branding-container,div.article-list__image,div.list-ar
 postimees.ee##div.view-offer
 postimees.ee##section.latest_list>figure,div.article--in-list__image,.article-related-articles-list__image,.article-latest-news-list__item,div.list-article__image
 postimees.ee##span.frontIcons,a.itemContainer,section#customAdProjectBlock,img.shadowText,div.payMethodContainer,img.img,DIV.personalized-articles-popup,div.personalized-articles,div.commercial-articles
+postimees.ee##div.campaign,.header--sticky
+postimees.ee##div.list-article__media>img,div.magazine-slider,swiper-container,.list-article__image
 sportfoto.com/*/copyright*.gif
 www.vint.ee##A[href="http://atmosphere.ee"]
 www.vint.ee##DIV[id="banner"]
