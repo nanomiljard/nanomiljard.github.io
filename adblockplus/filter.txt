@@ -32,6 +32,8 @@ www.vint.ee##DIV[id="banner"]
 youtube.com##div.video-legacy-annotations,div.video-custom-annotations
 youtube.com##img.yt-img-shadow
 youtube.com##ytd-thumbnail,#thumbnail.ytd-thumbnail
+youtube.com##.ytp-pause-overlay-container
+youtube.com##ytd-rich-shelf-renderer
 ||kanal2.postimees.ee/pluss_assets/img/video_problem.png
 ||marathon100.com/upload/banners/*
 ||media.bridgewinners.com/info_blocks/*
