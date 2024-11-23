@@ -34,6 +34,7 @@ youtube.com##img.yt-img-shadow
 youtube.com##ytd-thumbnail,#thumbnail.ytd-thumbnail
 youtube.com##.ytp-pause-overlay-container
 youtube.com##ytd-rich-shelf-renderer
+youtube.com##ytd-brand-video-singleton-renderer
 ||kanal2.postimees.ee/pluss_assets/img/video_problem.png
 ||marathon100.com/upload/banners/*
 ||media.bridgewinners.com/info_blocks/*
