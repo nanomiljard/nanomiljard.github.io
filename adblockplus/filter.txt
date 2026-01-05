@@ -26,6 +26,7 @@ postimees.ee##section.latest_list>figure,div.article--in-list__image,.article-re
 postimees.ee##span.frontIcons,a.itemContainer,section#customAdProjectBlock,img.shadowText,div.payMethodContainer,img.img,DIV.personalized-articles-popup,div.personalized-articles,div.commercial-articles
 postimees.ee##div.campaign,.header--sticky
 postimees.ee##div.list-article__media>img,div.magazine-slider,swiper-container,.list-article__image
+postimees.ee##div.tp-container-inner
 sportfoto.com/*/copyright*.gif
 www.vint.ee##A[href="http://atmosphere.ee"]
 www.vint.ee##DIV[id="banner"]
